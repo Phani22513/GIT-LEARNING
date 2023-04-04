@@ -1,0 +1,5 @@
+# GIT-LEARNING
+This is learn to git 
+
+1) add extra point by watching the UDEMY videos
+2) Trained by Phanee.
